@@ -12,3 +12,4 @@
 /Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.pdb
 /Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.genruntimeconfig.cache
 /Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/ref/GDCIT.dll
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDCIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5796ff6ad217e4e2f8a7bec77393060869e96dc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDCIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDCIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
