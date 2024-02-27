@@ -1,0 +1,14 @@
+/Users/sahilagiwal/Documents/code/.net/GDCIT/bin/Debug/net8.0/GDCIT
+/Users/sahilagiwal/Documents/code/.net/GDCIT/bin/Debug/net8.0/GDCIT.deps.json
+/Users/sahilagiwal/Documents/code/.net/GDCIT/bin/Debug/net8.0/GDCIT.runtimeconfig.json
+/Users/sahilagiwal/Documents/code/.net/GDCIT/bin/Debug/net8.0/GDCIT.dll
+/Users/sahilagiwal/Documents/code/.net/GDCIT/bin/Debug/net8.0/GDCIT.pdb
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.AssemblyInfoInputs.cache
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.AssemblyInfo.cs
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.csproj.CoreCompileInputs.cache
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.dll
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/refint/GDCIT.dll
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.pdb
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/GDCIT.genruntimeconfig.cache
+/Users/sahilagiwal/Documents/code/.net/GDCIT/obj/Debug/net8.0/ref/GDCIT.dll
